@@ -12,8 +12,6 @@
 
 - **Note** for all these challenges we will not be using global variables and any standard library.
 - We will be using function prototypes that will be included in our header file called, [main.h](./main.h).
-- We are allowed to use the prototype funtion [\_putchar](https://github.com/holbertonschool/_putchar.c/blob/master/_putchar.c).
-- All `*-main.c` files will be located in the [main](./main) directory
 
 ---
 
