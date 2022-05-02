@@ -1,4 +1,4 @@
-#include"holberton.h"
+#include"main.h"
 
 /**
  * _islower - function to check if
